@@ -1,5 +1,5 @@
 <h1>Projeto página de gerenciamento de eventos</h1>
-<div style="display:flex, justify-content: center, align-items:center;">
+<div style="display:flex; justify-content: center; align-items:center;">
     <span>Desenvolvido com Laravel<span>
     <span align="center"'>
         <a href="https://laravel.com" target="_blank">
