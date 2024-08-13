@@ -1,0 +1,1 @@
+console.log("Js funcionando com laravel");
