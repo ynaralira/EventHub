@@ -78,27 +78,31 @@ header{
 /* Event list */
 #events-container{
     padding: 50px;
+   
 }
 
 #events-container h2{ 
     margin-bottom: 10px;
+    margin-left: 25px;
 }
+
 
 #events-container .subtitle{
     color: gray;
+    margin-left: 25px;
     margin-bottom: 30px;
 }
 
-.cards-container{
+#cards-container{
     display: flex;
 }
 
 #events-container .card{
-    flex: 1 1 0;
-    max-width: 25%;
+    flex: 1 1 20%;
+    max-width: 20%;
     border-radius: 10px;
     padding: 0;
-    margin: 5px;
+    margin: 25px;
     box-shadow: #9b9b9b 1px 1px 10px 1px;
 }
 
